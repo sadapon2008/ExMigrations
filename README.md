@@ -1,6 +1,7 @@
 #Requirements
 
 Migrations Plugin for CakePHP (CakeDC/migrations) >= 2.3.1
+psql command included in PostgreSQL
 
 #Settings
 
